@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/countries-with-switch-theme/static/css/main.d7200462.css",
+    "main.js": "/countries-with-switch-theme/static/js/main.634f6944.js",
+    "index.html": "/countries-with-switch-theme/index.html",
+    "main.d7200462.css.map": "/countries-with-switch-theme/static/css/main.d7200462.css.map",
+    "main.634f6944.js.map": "/countries-with-switch-theme/static/js/main.634f6944.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7200462.css",
+    "static/js/main.634f6944.js"
+  ]
+}
